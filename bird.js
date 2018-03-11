@@ -132,7 +132,7 @@ function initGame() {
     window.addEventListener( "keydown", handleUserInteraction, false );
     canvas.addEventListener('touchstart', handleUserInteraction, false);
     canvas.addEventListener('mousedown', handleUserInteraction, false);
-
+    
     collisionCanvas.width = birdX + 8;
     collisionCanvas.height = 32;
     collisionContext = collisionCanvas.getContext("2d");

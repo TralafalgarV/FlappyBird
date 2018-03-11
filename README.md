@@ -1,5 +1,9 @@
 ## Flappy Bird
 
+### 试玩地址
+
+> https://47.96.183.75/flappybird.html
+
 ### 效果演示
 
 ![flappybird](https://github.com/TralafalgarV/FlappyBird/blob/master/img/flappybird.gif)
